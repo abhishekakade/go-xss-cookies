@@ -1,1 +1,1 @@
-web: bin/xss-store-cookies
+web: xss-store-cookies
