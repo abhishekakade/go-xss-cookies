@@ -1,1 +1,1 @@
-web: xss-store-cookies
+web: go run server.go
